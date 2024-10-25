@@ -3,11 +3,11 @@
 **Insta Scraper** is a Chrome extension designed to help businesses create high-quality prospect lists by scraping Instagram profile data and sending it automatically to Google Sheets. Built with Node.js, it seamlessly integrates with Google Sheets to organize and store lead information, making it an invaluable tool for marketers and business owners.
 
 <pre align="center">
-<img width="900" alt="Ig_scraper_IG" src="https://github.com/user-attachments/assets/2b5cb239-ab1f-4fd8-bc42-4c643d7dd2c1">
+<img width="950" alt="Ig_scraper_IG" src="https://github.com/user-attachments/assets/2b5cb239-ab1f-4fd8-bc42-4c643d7dd2c1">
   
-<img width="900" alt="IG_scraper_lead_list_1" src="https://github.com/user-attachments/assets/63401a9f-a5db-4e17-bffa-b1406e9cad1c">
+<img width="950" alt="IG_scraper_lead_list_1" src="https://github.com/user-attachments/assets/63401a9f-a5db-4e17-bffa-b1406e9cad1c">
   
-<img width="900" alt="Ig_scraper_lead_list" src="https://github.com/user-attachments/assets/1a1011a1-2d81-4458-a5a8-62bb536fc28f">
+<img width="950" alt="Ig_scraper_lead_list" src="https://github.com/user-attachments/assets/1a1011a1-2d81-4458-a5a8-62bb536fc28f">
 </pre>
 
 ## Features
@@ -20,6 +20,9 @@
 
 - **Chrome Extension**: JavaScript, HTML, and CSS for the frontend interface.
 - **Node.js Backend**: Handles the integration with Google Sheets API for data storage.
+
+In this github repo, IG_scraper folder is to launch as chrome extension in chrome browser.
+The node_env_files folder has files to put in a node environment, that runs in the backend when node server is on.
 
 ## Prerequisites to use this application
 
